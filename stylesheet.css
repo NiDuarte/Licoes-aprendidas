@@ -1,0 +1,58 @@
+nav{
+        background-color: black;
+        flex: 0 0 50%;
+        text-align: center;
+}
+
+h1,h2{
+        color:aliceblue       
+}
+
+h3{
+    text-align: center;
+}
+
+#lilás{
+       background-color: rebeccapurple;
+       color: white;
+       padding:20px;
+       text-align:center       
+}
+
+.principal{
+     text-align: center;
+     font-size: 20px;
+    margin-top: 50px;
+    margin-bottom: -3px;
+    padding: 10px 
+}
+
+.foto{
+    display:inline-block;vertical-align:top    
+}
+
+.bio{
+    align-items: center; 
+     margin-top: 10px;
+     justify-content: center;
+}
+
+.conteúdos{
+    display:inline-block;
+    text-align: justify;
+}
+
+footer{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: -3px;
+    background-color: grey;
+}
+
+.mp{
+    display:inline-block;vertical-align:top
+}
+
+.in{
+    display:inline-block;
+}
